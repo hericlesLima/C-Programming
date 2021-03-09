@@ -1,0 +1,108 @@
+
+
+	Código: 123
+
+	Categoria: alimento
+
+	Nome: anamas
+
+	Quantidade: 1236
+
+	Preço: 145
+
+
+
+	Código: 123
+
+	Categoria: alimento
+
+	Nome: ananas
+
+	Quantidade: 124
+
+	Preço: 13
+
+
+
+	Código: 123
+
+	Categoria: alimento
+
+	Nome: ananas
+
+	Quantidade: 132
+
+	Preço: 42
+
+
+
+	Código: 123
+
+	Categoria: alimento
+
+	Nome: banana
+
+	Quantidade: 125
+
+	Preço: 13
+
+
+
+	Código: 132
+
+	Categoria: nnnnn
+
+	Nome: sssssss
+
+	Quantidade: 21
+
+	Preço: 15
+
+
+
+	Código: 22
+
+	Categoria: m
+
+	Nome: m
+
+	Quantidade: 2
+
+	Preço: 2
+
+
+
+	Código: 10
+
+	Categoria: alimento
+
+	Nome: banana
+
+	Quantidade: 20
+
+	Preço: 30
+
+
+
+	Código: 10
+
+	Categoria: jbgjhg
+
+	Nome: jhbjhg
+
+	Quantidade: 121
+
+	Preço: 11
+
+
+
+	Código: 1213
+
+	Categoria: jhgfhgfjhyf
+
+	Nome: ggkhgk
+
+	Quantidade: 121
+
+	Preço: 121
+
